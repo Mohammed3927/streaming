@@ -1,0 +1,22 @@
+{
+  "name": "welcome-autorole-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with welcome messages and auto-role features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "welcome",
+    "autorole"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "canvas": "^2.11.2"
+  }
+}
